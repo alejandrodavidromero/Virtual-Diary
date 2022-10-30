@@ -1,5 +1,5 @@
 # Virtual Diary
 
-Este proyecto pretendo crear notas por el profesor con el fin de recordarlas en proximas clases y poder eliminarlas una ves completada la tarea
+This project intends to create notes for the teacher in order to remember them in future classes and to be able to eliminate them once the task is completed.
 
-Version desplegada en: https://alejandrodavidromero.github.io/Virtual-Diary/
+version deployed in: https://alejandrodavidromero.github.io/Virtual-Diary/
