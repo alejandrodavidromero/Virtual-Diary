@@ -1,5 +1,6 @@
 {
   "name": "proyecto1",
+  "homepage": "http://alejandrodavidromero.github.io/Virtual-Diary",
   "private": true,
   "version": "0.0.0",
   "type": "module",
